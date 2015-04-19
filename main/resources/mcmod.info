@@ -1,0 +1,17 @@
+[
+{
+"modid": "waypoints_mod",
+"name": "Waypoints Mod",
+"description": "A Waypoints mod to create some waypoints in many worlds or many servers.",
+"version": "1.0",
+"mcversion": "1.7.10",
+"url": "http://dl.team-arma.fr/mods/WaypointsMod/",
+"updateUrl": "",
+"authorList": ["Dilink"],
+"credits": "Thanks to Bryk9 for the differents icons.",
+"logoFile": "logo.png",
+"screenshots": [],
+"parent":"",
+"dependencies": []
+}
+]
